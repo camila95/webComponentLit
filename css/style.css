@@ -1,0 +1,10 @@
+#contenedor{
+    text-align:center;
+}
+
+#botonClic{
+    border: solid;
+    border-color: cornflowerblue;
+    border-radius: 10px;
+    background-color: lightblue;
+}

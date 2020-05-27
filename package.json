@@ -1,0 +1,14 @@
+{
+  "name": "webcomponentlit",
+  "version": "1.0.0",
+  "description": "Capacitación en LitElement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^2.3.1"
+  }
+}
